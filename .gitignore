@@ -1,0 +1,34 @@
+# Qt Creator user-specific settings
+*.user
+*.user.*
+*.pro.user
+*.pro.user.*
+
+# Build and generated output
+build/
+debug/
+release/
+x64/
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+
+# Qt generated files
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+
+# Generated build files
+Makefile
+CMakeFiles/
+CMakeCache.txt
+
+# Logs and OS metadata
+*.log
+.DS_Store
+Thumbs.db
